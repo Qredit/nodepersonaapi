@@ -1,0 +1,20 @@
+{
+  "name": "nodepersonaapi",
+  "version": "0.0.1",
+  "description": "This package file is for all the dependencies for the Node Persona API Helper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qredit/nodepersonaapi.git"
+  },
+  "dependencies": {
+    "big.js": "^5.2.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nayiem Willems",
+  "license": "MIT"
+}
