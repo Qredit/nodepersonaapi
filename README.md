@@ -1,6 +1,6 @@
-# Node Qredit API Helper
+# Node Persona API Helper
 
-[![https://t.me/@nayiem_O](https://telegram.me/@nayiem)
+[![https://t.me/@nayiem](https://telegram.me/@nayiem)
 
 A Promised NodeJS Module for connecting with the Persona v1 API
 
